@@ -1,13 +1,42 @@
 body{
-    font-family:'Times New Roman', Times;
-    margin: 5%;
+    font-family:"Arimo" sans-serif;
+}
+.estilo{
+    width: 50px;
+    font-weight: none;
+    font-size: 25px;
+    font-style: normal;
+    position: relative;
+    left: 7%;
+    white-space: pre;
+    line-height: 0.95;
+
+}
+.diseño{
+  font-family: "Arimo", sans-serif;
+  font-optical-sizing: auto;
+  width: 400px;
+  font-weight: 400px;
+  font-size: 850%;
+  position: relative;
+  bottom: 200px
 }
 footer{
-    color:aliceblue
+    color: #fefefe;
 }
-form{
-    margin-top: 5%;
-    margin-left: 25%;
-    margin-right: 25%;
-    margin-bottom: 5%;
+.camisablanca {
+    width: 257px; 
+    height: 229px; 
+    transform: translate(0px, 0px) rotate(32deg);
+    margin: 5%;
+    margin-bottom: 3%;
+    position: relative;
+    left: 40%;
 }
+.logo2{
+    max-width: 400px;
+    width: 421px;
+    height: 421px; 
+}
+
+    
