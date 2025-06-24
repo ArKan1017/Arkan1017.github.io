@@ -35,8 +35,21 @@ footer{
 }
 .logo2{
     max-width: 400px;
-    width: 421px;
-    height: 421px; 
+    width: 321px;
+    height: 281px; 
+    margin: 5%;
 }
-
+header {
+    background-color: #fefefe;
+    color: black;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    }   
+    nav a {
+    color: black;
+    margin: none;
+    text-decoration: none;
+    }
     
